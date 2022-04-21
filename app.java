@@ -17,3 +17,6 @@ public class PrimeExample{
   }//end of else  
 }    
 }   
+
+
+kalki you waste fellow
